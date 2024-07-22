@@ -19,7 +19,7 @@
         [ /* Nombre */ 
             "https://raw.githubusercontent.com/Flinch101/base-de-datos/main/productos/producto_2_1.png"
         ],
-        /* Descripcion */ "• Alta calidad, durable y estable\n• Zócalo E27\n• Adaptador de enchufe para Estados Unidos\n• Fácil instalación y uso seguro\n• Resistencia a altas temperaturas\n• Interruptor de encendido y apagado\n• Tensión de trabajo: 100V-240V\n• Material: PVC + Metal\n• Color: Blanco\n• Dimensiones: 67 x 47 x 45 mm\n• Origen: China",
+        /* Descripcion */ "• Alta calidad, durable y estable<br>• Zócalo E27<br>• Adaptador de enchufe para Estados Unidos<br>• Fácil instalación y uso seguro<br>• Resistencia a altas temperaturas<br>• Interruptor de encendido y apagado<br>• Tensión de trabajo: 100V-240V<br>• Material: PVC + Metal<br>• Color: Blanco<br>• Dimensiones: 67 x 47 x 45 mm<br>• Origen: China",
         /* Link WhatsApp */ "https://api.whatsapp.com/send?phone=+5491161612430&text=Hola%20buenas,%20estoy%20interesad@%20en%20el%20Portalampara%20Adaptador%20E27%20Tecla%20Enchufe%20Velador%20Luz%20Noche%20Color%20Blanco!",
         /* Nuevo/Usado */ "usado",
         /* Cantidad de fotos */ 1
