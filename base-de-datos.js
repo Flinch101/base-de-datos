@@ -30,7 +30,7 @@
         [ /* Nombre */ 
             "https://raw.githubusercontent.com/Flinch101/base-de-datos/main/productos/producto_3_1.png"
         ],
-        /* Descripcion */ "Bicicleta rodado 22 BMX de niño, poco uso, a buen precio.",
+        /* Descripcion */ "Bicicleta <br>Rodado 22 BMX de niño<br>Poco uso, a buen precio.",
         /* Link WhatsApp */ "https://api.whatsapp.com/send?phone=+5491161612430&text=Hola%20buenas,%20estoy%20interesad@%20en%20la%20Bicicleta!",
         /* Nuevo/Usado */ "usado",
         /* Cantidad de fotos */ 1
