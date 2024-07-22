@@ -1,4 +1,4 @@
-= [
+[
     [
         /* Nombre */ "Parlante TG 113 Bluetooth",
         /* Precio */ "$50.000",
