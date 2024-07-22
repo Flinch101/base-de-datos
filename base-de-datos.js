@@ -8,7 +8,7 @@
             "https://raw.githubusercontent.com/Flinch101/base-de-datos/main/productos/producto_1_3.png",
             "https://raw.githubusercontent.com/Flinch101/base-de-datos/main/productos/producto_1_4.png",
         ],
-        /* Descripcion */ "",
+        /* Descripcion */ "- ESPECIFICACIONES TÉCNICAS:<br>-Modelo: TG113.<br>-Material: ABS.<br>-Versión de Bluetooth: 3.0.<br>-Distancia de transmisión: 10m.<br>-Voltaje incorporado: 3.7V.<br>-Capacidad de la batería: 1200ma.<br>-Tamaño de la bocina: 52 mm * 2.<br>-Potencia de la bocina: 42 / 5W * 2.<br>-Distancia de transmisión: 10m.<br>-Voltaje incorporado: 3.7V.<br>-Capacidad de la batería: 1200ma.<br>-Duracion de la carga Volumen normal uso continuo: 5-6 h<br>-Duracion de la carga Volumen maximo uso continuo: 3-4 h<br>-Tamaño de la bocina: 52 mm * 2.<br>-Potencia de la bocina: 4ohms / 5W * 2.<br>-S/N Ratio: =90db<br>-Carga: 5V / 500mah-2A.",
         /* Link WhatsApp */ "https://api.whatsapp.com/send?phone=+5491161612430&text=Hola%20buenas,%20estoy%20interesad@%20en%20el%20Parlante%20TG%20113!",
         /* Nuevo/Usado */ "nuevo",
         /* Cantidad de fotos */ 4
