@@ -14,7 +14,7 @@
         /* Cantidad de fotos */ 4
     ],
     [
-        /* Nombre */ "Portalampara Adaptador E27 Tecla Enchufe Velador Luz Noche Color Blanco",
+        /* Nombre */ "Portalampara Adaptador E27",
         /* Precio */ "$1.500",
         [ /* Nombre */ 
             "https://github.com/Flinch101/base-de-datos/blob/main/productos/producto_2_1.webp"
